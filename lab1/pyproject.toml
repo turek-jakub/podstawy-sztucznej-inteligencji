@@ -13,6 +13,7 @@ dependencies = [
     # lab 1 - linear models
     "feature-engine>=1.9",
     "scikit-learn>=1.8",
+    "ipykernel>=7.3.0",
 ]
 
 [dependency-groups]
